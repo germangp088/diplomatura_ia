@@ -8,3 +8,4 @@ practicas/Fede/Entregable 3/testdata.manual.2009.06.14.csv
 *.trashinfo
 *.csv
 practicas/.Trash-0/files/training.1600000.processed.noemoticon.csv
+*.parquet
